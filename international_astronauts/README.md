@@ -1,4 +1,4 @@
-# Read Me: International Astronaut Database Visualization
+# International Astronaut Database Visualization
 
 Purpose: This dashboard provides an in-depth exploration of astronaut demographics, global contributions to space exploration, gender representation, roles in missions, and insights into the space race. It aims to highlight historical trends and global participation in space exploration.
 
